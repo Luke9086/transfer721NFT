@@ -1,4 +1,5 @@
 # transfer721NFT
+## nodejs is required to execute this script
 Make sure you have approved the NFT before making transactions.
 Create a file named *.env* and the content includes
 
